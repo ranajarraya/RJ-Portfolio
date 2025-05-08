@@ -1,4 +1,4 @@
-# RJ-Portfolio - Data Analyst | Business Intelligence | Developpeur ML
+# RJ-Portfolio - Data Analyst | Business Intelligence | Développeur web
 
 ## Infos
 Jeune diplômée en Data Science avec une solide formation en analyse de données, modélisation statistique et apprentissage automatique. Passionnée par la résolution de problèmes complexes à l'aide de données et d'outils innovants. Compétente dans le traitement et la visualisation de grandes quantités de données pour générer des insights exploitables. Enthousiaste à l'idée de contribuer à des projets novateurs dans un environnement stimulant.
